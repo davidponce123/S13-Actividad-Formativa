@@ -13,13 +13,13 @@ Implementar y ejecutar pruebas unitarias con JUnit 5 y Mockito, además de prueb
 
 ## Evidencias
 
-**Evidencia 1: Pruebas unitarias con JUnit**
+**Pruebas unitarias con JUnit**
 
-![Pruebas unitarias](evidencias/Evidencia_01_JUnit.png)
+![Evidencia 1](src/Evidencias/Captura%20de%20pantalla%202026-11-04%20150447.png)
 
-**Evidencia 2: Bloqueo de cuenta en Postman**
+**Bloqueo de cuenta en Postman**
 
-![Bloqueo de cuenta](evidencias/Evidencia_02_Postman_423.png)
+![Evidencia 2](src/Evidencias/Captura%20de%20pantalla%202026-11-04%20150532.png)
 
 ## Defecto identificado y corregido
 
